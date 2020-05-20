@@ -1,0 +1,21 @@
+{
+  "name": "lms-ngx-deployment",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.1.2",
+    "@angular/core": "^8.1.2"
+  },
+  "main": "bundles/lms-ngx-deployment.umd.js",
+  "module": "fesm5/lms-ngx-deployment.js",
+  "es2015": "fesm2015/lms-ngx-deployment.js",
+  "esm5": "esm5/lms-ngx-deployment.js",
+  "esm2015": "esm2015/lms-ngx-deployment.js",
+  "fesm5": "fesm5/lms-ngx-deployment.js",
+  "fesm2015": "fesm2015/lms-ngx-deployment.js",
+  "typings": "lms-ngx-deployment.d.ts",
+  "metadata": "lms-ngx-deployment.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
